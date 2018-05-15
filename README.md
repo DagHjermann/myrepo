@@ -1,3 +1,4 @@
 # myrepo
-This is a line from RStudio
-Another line
+This is a line from RStudio  
+Another line  
+- And yet another
